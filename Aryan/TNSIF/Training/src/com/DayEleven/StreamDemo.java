@@ -9,7 +9,7 @@ public class StreamDemo {
 		Function<Integer,Integer> sqre =(n)->n*n;
 		stream.map(sqre).forEach(System.out::println);
 		
-		Stream <String> stream1 = Stream.of("Esha","Soham");
+		Stream <String> stream1 = Stream.of("Akshad","Aryan");
 		Function<String,String> join =(name) -> name + name;
 		stream1.map(join).forEach(System.out::println);
 	}
