@@ -7,7 +7,7 @@ public class LamdaExpressionDemo {
 		Message m1 = (name)-> {
 			System.out.println("Hello "+name);
 		};
-		m1.greet("Soham");
+		m1.greet("Aryan");
 		
 		Cube c = (a) -> {
 			return a*a*a;
