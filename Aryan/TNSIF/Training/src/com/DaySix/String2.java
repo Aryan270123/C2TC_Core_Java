@@ -3,9 +3,9 @@ package com.DaySix;
 public class String2 {
 
 	public static void main(String[] args) {
-//		String s = "Soham ";
-//		s = s.concat("Niungare ");
-//		s=s+"Esha ";//Operator Overloading
+//		String s = "Akshad ";
+//		s = s.concat("Mahadik ");
+//		s=s+"vish ";//Operator Overloading
 //		s+="The Great";
 //		System.out.println(s);
 		String a = "Arya";
