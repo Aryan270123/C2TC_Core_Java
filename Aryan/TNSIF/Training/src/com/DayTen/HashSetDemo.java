@@ -13,15 +13,15 @@ public class HashSetDemo {
 		
 		list1.add(1);
 //		list1.add(2); 	
-		list1.add("Soham");
+		list1.add("Aryan");
 		
 		list2.add(1);
 		list2.add(2);
-		list2.add("Soham");
+		list2.add("Akshad");
 		
 		list3.add(1);
 		list3.add(2);
-		list3.add("soham");
+		list3.add("himanshu");
 		
 		hash.add(list1);
 		hash.add(list2);
