@@ -7,8 +7,8 @@ import java.util.List;
 public class ComparableExecutor {
 	public static void main(String[] args) {
 		List<Employee> emps= new ArrayList<Employee>();
-		emps.add(new Employee("Soham", 97, 1122424));
-		emps.add(new Employee("Arya", 197, 41122424));
+		emps.add(new Employee("Aryan", 97, 1122424));
+		emps.add(new Employee("soha", 197, 41122424));
 		emps.add(new Employee("Ram", 7, 11224455));
 		
 		// unsorted objects
