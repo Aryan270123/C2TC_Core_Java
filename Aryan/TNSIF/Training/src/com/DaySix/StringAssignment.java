@@ -2,8 +2,8 @@ package com.DaySix;
 
 public class StringAssignment {
 	public static void main(String[] args) {
-		String a = new String("Soham");
-		String b = "Niungare";
+		String a = new String("Aryan");
+		String b = "Waghmare";
 		String c = "";
 		String d = " ";
 		String name = a.concat(" " + b);
